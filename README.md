@@ -8,6 +8,12 @@
 
 <hr>
 
+### [Геймплейное видео](https://www.youtube.com/watch?v=bj01siAE4wY)
+
+### [Последняя версия билда](https://drive.google.com/drive/folders/1p9X3oSgKtlA5A8iATBhbJpwy8uSzeKEZ?usp=drive_link)
+
+<hr>
+
 ### Особенности проекта: 
 
 > AI: деревья поведений, таски, декораторы, сервисы, EQS
@@ -24,16 +30,6 @@
 
 > Подбор расходников: аптечка и боеприпасы
 
-> Хитскан и проджектайл версии вооружений
-
-<hr>
-
-### Геймплейное видео: 
-https://www.youtube.com/watch?v=bj01siAE4wY
-
-<hr>
-
-### Последняя версия билда:
-https://drive.google.com/drive/folders/1p9X3oSgKtlA5A8iATBhbJpwy8uSzeKEZ?usp=drive_link
+> Хитскан и проджектайл версии оружия
 
 <hr>
