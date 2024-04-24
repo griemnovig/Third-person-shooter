@@ -6,8 +6,6 @@
 
 Текущая версия движка: 5.3
 
-<hr>
-
 ### [Геймплейное видео](https://www.youtube.com/watch?v=bj01siAE4wY)
 
 ### [Последняя версия билда](https://drive.google.com/drive/folders/1p9X3oSgKtlA5A8iATBhbJpwy8uSzeKEZ?usp=drive_link)
